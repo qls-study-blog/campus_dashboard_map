@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 密钥（禁止上传）
+.streamlit/secrets.toml
+
+# 临时/生成文件
+_lab.txt
+_v.py
+_v.txt
+
+# IDE
+.idea/
+.vscode/
